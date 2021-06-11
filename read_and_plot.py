@@ -1,4 +1,4 @@
-# --- 
+# --- It is actually an ipynb file but made into a .py file because of JSON error
 # aims: implement the GMM and the KDE to planar snapshots 
 # calls: kde_plus_gmm_gagan 
 # modefication history: gmalik, 31 May, 2021; 
